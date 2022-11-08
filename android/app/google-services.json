@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "487235726267",
+    "project_id": "leftoveronwheeluserapp",
+    "storage_bucket": "leftoveronwheeluserapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487235726267:android:003a4286d3daf43fb3f29e",
+        "android_client_info": {
+          "package_name": "com.example.foodpanda_users_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487235726267-i78g7oprndu97btl11siioeb34kpuc1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodpanda_users_app",
+            "certificate_hash": "81208abdfcd7c9cc120255dbf31200302dc83dec"
+          }
+        },
+        {
+          "client_id": "487235726267-sjj616t6ce6m055q994vsff08omjgi1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4HvfmskPSxOn3ECHOrRL9o3DFg9YNk0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487235726267-sjj616t6ce6m055q994vsff08omjgi1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
